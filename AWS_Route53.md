@@ -39,3 +39,4 @@ Route53의 두가지 역할
 - 네임서버를 임대해주는 역할
 ![](https://velog.velcdn.com/images/noahshin__11/post/e4092364-685b-4e01-8607-6bb00d973077/image.png)
 
+
