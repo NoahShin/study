@@ -182,7 +182,7 @@ ECS 기반으로 Application을 잘 운영하려면, Task 와 Service 개념의 
 
 
 [진짜 우노님 감사합니다...](https://wooono.tistory.com/133)
-
+https://velog.io/@hax0r/AWS-ECSECR-%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%B0%ED%8F%AC
 
 
 
